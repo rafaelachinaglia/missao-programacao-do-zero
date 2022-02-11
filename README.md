@@ -9,6 +9,9 @@ Esse foi meu primeiro projeto e se trata de um site para oferta de serviços con
 * CSS
 * JavaScript
 
+## 🖱️ Visualização
+Para seu conforto, caso deseje, pode visualizar o projeto em seu navegador [clicando aqui](https://rcf-contabilidade.netlify.app/). 
+
 ## 👸 Autora
 Olá! Me chamo Rafaela e me sinto lisonjeada com a sua visita 🙂 
 Sou estudante de Ciência da Computação e divido aqui, os projetos quais estou aprendendo a desenvolver. 
